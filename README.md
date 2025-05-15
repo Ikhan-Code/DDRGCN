@@ -1,10 +1,10 @@
-# 🔒 GTransaction: Graph-Based Synthetic Identity Detection
+# 🔒 DDRGCN: Graph-Based Synthetic Identity Detection
 
 > 🚧 This repository is currently under **peer review** for journal publication.
 
 ## 📘 About the Project
 
-**GDDRGCN** is a multi-edge graph learning framework designed for detecting **synthetic identities** using relational, transactional, and PII-based features. It leverages **Realtional Graph Convolutional Networks (RGcN)**  with distance encoding and multi-relation modeling for enhanced performance on imbalanced fraud datasets.
+**DDRGCN** is a multi-edge graph learning framework designed for detecting **synthetic identities** using relational, transactional, and PII-based features. It leverages **Realtional Graph Convolutional Networks (RGcN)**  with distance encoding and multi-relation modeling for enhanced performance on imbalanced fraud datasets.
 
 🧠 The framework has been tested on large-scale identity graphs and shows promising results with strategic node selection, robust class-imbalance handling, and interpretable metrics like F1, AUC, and PR-AUC.
 
@@ -26,9 +26,9 @@ We are currently finalizing the manuscript for publication. The full codebase (i
 
 If you're interested in early access or research collaboration, feel free to contact:
 
-- **Name**: [Imran Khan]
-- **Email**: [imran7535@gmail.com
-- **LinkedIn / Google Scholar**: [https://www.linkedin.com/in/imran-khan-alig/]
+- **Name**: Imran Khan
+- **Email**: imran7535@gmail.com
+- **LinkedIn / Google Scholar**: https://www.linkedin.com/in/imran-khan-alig/
 
 ---
 
